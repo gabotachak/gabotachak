@@ -14,4 +14,6 @@ I'm studyng systems engineering at Universidad Nacional de Colombia (UNAL) and I
 
 I'm interested mostly in web apps (using JS) and Python but I know some things about Java, C, C++, C#.
 
+If you're a recruiter or a possible colleague, you can check my LinkedIn profile [here](https://www.linkedin.com/in/gaanzola/).
+
 You can check bellow my work in this repositories.
