@@ -8,7 +8,7 @@ Some things about me:
 
 - Nationality: Colombian 🇨🇴
 - Age: 18
-- Email: ganzola@unal.edu.co
+- Email: ga.anzola15@gmail.com
 
 I'm studyng systems engineering at Universidad Nacional de Colombia (UNAL) and I love programming, here in my github profile you'll find some of my school or personal projects.
 
