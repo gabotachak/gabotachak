@@ -10,7 +10,7 @@ Some things about me:
 - Age: 19 (2021)
 - Email: ga.anzola15@gmail.com
 
-I'm studyng systems engineering at Universidad Nacional de Colombia (UNAL) and I love programming, here in my github profile you'll find some of my school or personal projects.
+I'm studying systems engineering at Universidad Nacional de Colombia (UNAL) and I love programming, here in my github profile you'll find some of my school or personal projects.
 
 I'm interested mostly in web apps (using JS) and Python but I know some things about Java, C, C++, C#.
 
