@@ -8,8 +8,10 @@ Some things about me:
 
 - Nationality: Colombian 🇨🇴
 - Email: ga.anzola15@gmail.com
-
-I'm studying systems engineering at Universidad Nacional de Colombia (UNAL) and I love programming, here in my github profile you'll find some of my school or personal projects.
+- I work at [Mercado Libre](https://mercadolibre.com)
+- School: [Universidad Nacional de Colombia (UNAL)](https://unal.edu.co)
+ 
+I love programming, here in my github profile you'll find some of my school or personal projects.
 
 I'm interested mostly in web apps (using JS) and Python but I know some things about Java, C, C++, C#.
 
