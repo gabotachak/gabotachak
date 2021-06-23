@@ -6,10 +6,10 @@
 
 Some things about me:
 
-- Nationality: Colombian 🇨🇴
-- Email: ga.anzola15@gmail.com ✉️
-- Work: Software Development Analyst @ [Mercado Libre](https://mercadolibre.com) 💪
-- Education: Systems and Computing Engineering @ [Universidad Nacional de Colombia (UNAL)](https://unal.edu.co) 🇨🇴
+- **Location:** Bogotá, Colombia 📍🇴
+- **Email:** ga.anzola15@gmail.com ✉️
+- **Work:** Software Development Analyst @ [Mercado Libre](https://mercadolibre.com) 💪
+- **Education:** Systems and Computing Engineering @ [Universidad Nacional de Colombia (UNAL)](https://unal.edu.co) 🇨🇴
  
 I love programming, here in my github profile you'll find some of my school or personal projects.
 
