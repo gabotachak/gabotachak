@@ -8,8 +8,8 @@ Some things about me:
 
 - **Location:** Bogotá, Colombia 📍🇴
 - **Email:** ga.anzola15@gmail.com ✉️
-- **Work:** Software Development Analyst @ [Mercado Libre](https://mercadolibre.com) 💪
-- **Education:** Systems and Computing Engineering @ [Universidad Nacional de Colombia (UNAL)](https://unal.edu.co) 🇨🇴
+- **Work:** Software Development Analyst @ <a href="https://mercadolibre.com" target="_blank">Mercado Libre 💪</a>
+- **Education:** Systems and Computing Engineering <a href="https://unal.edu.co" target="_blank">Universidad Nacional de Colombia (UNAL) 🇨🇴</a>
  
 I love programming, here in my github profile you'll find some of my school or personal projects.
 
