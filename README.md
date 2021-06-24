@@ -6,8 +6,8 @@
 
 Some things about me:
 
-- **Location:** Bogotá, Colombia 📍🇴
-- **Email:** <a href="https://www.google.com/maps/search/bogot%C3%A1/@4.6486259,-74.2478946,11z" target="_blank">ga.anzola15@gmail.com</a> ✉️
+- **Location:** <a href="https://www.google.com/maps/search/bogot%C3%A1/@4.6486259,-74.2478946,11z" target="_blank">Bogotá, Colombia</a> 📍🇴
+- **Email:** ga.anzola15@gmail.com ✉️
 - **Work:** Software Development Analyst @ <a href="https://mercadolibre.com" target="_blank">Mercado Libre</a> 💪
 - **Education:** Systems and Computing Engineering @ <a href="https://unal.edu.co" target="_blank">Universidad Nacional de Colombia (UNAL)</a>  🇨🇴
  
