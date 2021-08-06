@@ -13,7 +13,7 @@ Some things about me:
  
 I love programming, here in my github profile you'll find some of my school or personal projects.
 
-I'm interested mostly in web apps (using JS) and Python but I know some things about Java, C, C++, C#.
+I'm interested mostly in web apps using JS, Go and Python but I know some things about Java, C, C++, C#.
 
 If you're a recruiter or a possible colleague, you can check my LinkedIn profile [here](https://www.linkedin.com/in/gaanzola/).
 
