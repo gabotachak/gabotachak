@@ -17,4 +17,4 @@ I'm interested mostly in web apps (using JS) and Python but I know some things a
 
 If you're a recruiter or a possible colleague, you can check my LinkedIn profile [here](https://www.linkedin.com/in/gaanzola/).
 
-You can check bellow ⬇️⬇️⬇️ my work in this repositories:
+You can check bellow ⬇️⬇️⬇️ my public repositories:
