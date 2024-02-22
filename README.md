@@ -1,6 +1,6 @@
-# Gabriel Andres Anzola Tachak
+# Gabriel Anzola Tachak
 
-## github.com/ganzola
+## github.com/gabotachak
 
 ### Hello everybody! I'm Gabriel Andres
 
