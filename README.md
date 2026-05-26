@@ -2,30 +2,29 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=gabotachak;Gabriel+Anzola+Tachak;Backend+Engineer+%7C+IAM;Go+%7C+Python+%7C+Bogot%C3%A1+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
 
+*Coffee-flavored backend ☕ · Bogotá, Colombia 🇨🇴*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabotachak-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabotachak/)
+[![Email](https://img.shields.io/badge/email-ga.anzola15%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:ga.anzola15@gmail.com)
+
 </div>
 
 ---
 
-```ansi
-[2m> fastfetch[0m
-
-[36m                     ..'[0m          [1;36mgabotachak @ MacBook-Gabo[0m
-[36m                 ,xNMM.[0m           [2m-------------------------[0m
-[36m               .OMMMMo[0m            [33mOS:[0m macOS Tahoe / CachyOS (Omarchy)
-[36m               lMM"[0m               [33mName:[0m Gabriel Anzola Tachak
-[36m     .;loddo:.  .olloddol;.[0m       [33mRole:[0m Backend Engineer · IAM Specialist
-[36m   cKMMMMMMMMMMNWMMMMMMMMMM0:[0m     [33mCurrent:[0m Compass
-[36m .KMMMMMMMMMMMMMMMMMMMMMMMWd.[0m     [33mStack:[0m Go · Python · TypeScript · Shell
-[36m XMMMMMMMMMMMMMMMMMMMMMMMX.[0m       [33mShell:[0m fish
-[36m;MMMMMMMMMMMMMMMMMMMMMMMM:[0m        [33mEditor:[0m Antigravity · Claude Code
-[36m:MMMMMMMMMMMMMMMMMMMMMMMM:[0m        [33mAI:[0m Claude Code · Ollama · Antigravity CLI
-[36m.MMMMMMMMMMMMMMMMMMMMMMMMX.[0m       [33mIAM:[0m OAuth2 · JWT · RBAC · SOX · PCI
-[36m kMMMMMMMMMMMMMMMMMMMMMMMMWd.[0m     [33mDB:[0m PostgreSQL · MongoDB · Redis
-[36m 'XMMMMMMMMMMMMMMMMMMMMMMMMMMk[0m    [33mCloud:[0m GCP · Terraform · Vault
-[36m  'XMMMMMMMMMMMMMMMMMMMMMMMMK.[0m    [33mEducation:[0m Systems Eng @ UNAL
-[36m    kMMMMMMMMMMMMMMMMMMMMMMd[0m      [33mLocation:[0m Bogotá, Colombia
-[36m     ;KMMMMMMMWXXWMMMMMMMk.[0m       [33mLinkedIn:[0m linkedin.com/in/gabotachak
-[36m       "cooc*"    "*coo'"[0m         [33mEmail:[0m ga.anzola15@gmail.com
+```toml
+[gabotachak]
+name    = "Gabriel Anzola Tachak"
+role    = "Backend Engineer · IAM Specialist"
+current = "Compass"
+stack   = ["Go", "Python", "TypeScript", "Shell"]
+shell   = "fish"
+os      = ["macOS", "I use Arch btw"]
+editor  = ["Antigravity", "Claude Code"]
+ai      = ["Claude Code", "Ollama", "Antigravity CLI"]
+iam     = ["OAuth2", "JWT", "RBAC", "SOX", "PCI"]
+db      = ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
+cloud   = ["GCP", "Terraform", "Vault"]
+edu     = "Systems Engineering @ UNAL"
 ```
 
 ---
@@ -55,7 +54,13 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**IAM & Security** · `OAuth2` `JWT` `RBAC` `gRPC` `SOX` `PCI`
+---
+
+<div align="center">
+
+![Contribution Grid](https://ghchart.rshah.org/00D9FF/gabotachak)
+
+</div>
 
 ---
 
@@ -71,10 +76,5 @@
 ---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabotachak-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabotachak/)
-[![Email](https://img.shields.io/badge/email-ga.anzola15%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:ga.anzola15@gmail.com)
-
 <sub>🇨🇴 Bogotá · GMT-5</sub>
-
 </div>
