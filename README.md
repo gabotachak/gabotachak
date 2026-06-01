@@ -5,7 +5,7 @@
 *Coffee-flavored backend ☕ · Bogotá, Colombia 🇨🇴*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabotachak-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabotachak/)
-[![Email](https://img.shields.io/badge/email-ga.anzola15%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:hi@gabotachak.dev)
+[![Email](https://img.shields.io/badge/email-hi%40gabotachak.dev-D14836?style=flat-square&logo=gmail)](mailto:hi@gabotachak.dev)
 
 </div>
 
